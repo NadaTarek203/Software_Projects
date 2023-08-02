@@ -1,0 +1,42 @@
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\Furniture system.exe.config
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\Furniture system.exe
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\Furniture system.pdb
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\CrystalDecisions.ReportSource.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\CrystalDecisions.Shared.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\CrystalDecisions.Windows.Forms.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\Oracle.DataAccess.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\Policy.2.102.Oracle.DataAccess.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\Policy.2.111.Oracle.DataAccess.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\AxShockwaveFlashObjects.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\ShockwaveFlashObjects.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\stdole.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\Policy.2.102.Oracle.DataAccess.config
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\x64\Release\Policy.2.111.Oracle.DataAccess.config
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\x64\Release\Furniture_system.Booking.resources
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\x64\Release\Furniture_system.BranchReport.resources
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\x64\Release\Furniture_system.Form1.resources
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\x64\Release\Furniture_system.Home.resources
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\x64\Release\Furniture_system.Log_In.resources
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\x64\Release\Furniture_system.ManageFurniture.resources
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\x64\Release\Furniture_system.Manager.resources
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\x64\Release\Furniture_system.Order.resources
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\x64\Release\Furniture_system.profile.resources
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\x64\Release\Furniture_system.Properties.Resources.resources
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\x64\Release\Furniture system.csproj.GenerateResource.cache
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\x64\Release\Furniture system.csproj.CoreCompileInputs.cache
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\x64\Release\Furniture system.csproj.CopyComplete
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\x64\Release\Furniture system.exe
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\x64\Release\Furniture system.pdb
